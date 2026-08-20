@@ -7,7 +7,6 @@ import {
   Settings, 
   ShoppingCart,
   Mail,
-  HelpCircle,
   LogOut,
   Menu,
   Sun,

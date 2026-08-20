@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/card';
-import { Mail, User, Lock } from 'lucide-react';
+import { Mail, Lock } from 'lucide-react';
 import { useAuthStore } from '@/store/authStore';
 
 export function LoginPage() {
